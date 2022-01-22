@@ -8,7 +8,7 @@ We aim to cover a small subset of topics and provide an assignment to make the l
 
 | Day | Topic | Slides | Additional Material |
 | ------ | ------ | ------ | ------ |
-| Day 1 | Basic Python | Link | Link |
+| Day 1 | Basic Python | Link | [Link](https://colab.research.google.com/drive/1vWX1xAmOFvxL8GtLJUKx6Okbj0yz3VRs?usp=sharing) |
 | Day 1 | Introductory ML/DL | Link | Link |
 | Day 1 | Introductory Neuroscience | Link | Link |
 | Day 2| Spiking Neural Networks | Link | Link |
@@ -21,4 +21,5 @@ Submission of atleast 2 assignments is mandatory for completion of the workshop.
 
 ## License
 Licensed under MIT license. Please reference this github repo if used any of the assignment or lecture material created by Brain and Cognitive Society, IIT Kanpur
+
 More details: [Link](LICENSE)
