@@ -16,7 +16,10 @@ We aim to cover a small subset of topics and provide an assignment to make the l
 
 ## Assignments and submission
 
-Submission of atleast 2 assignments is mandatory for completion of the workshop. More details will be conveyed soon.
+Submission of atleast 2 assignments is mandatory for completion of the workshop. You can find all the assignments on our github here: [Resources](https://github.com/bcs-iitk/BCS_workshop_Jan_22#resources)
+
+The assignments cover an extensive amount of material and so we don't expect you to understand or complete everything. We expect you to at least go through them and try them on your own. The submission link for assignments is: https://forms.gle/UGrduAx6xwhV7nLJA. Deadline: 31st Jan 2022
+
 
 ## License
 Licensed under MIT license. Please reference this github repo if used any of the assignment or lecture material created by Brain and Cognitive Society, IIT Kanpur
