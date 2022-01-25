@@ -8,7 +8,7 @@ We aim to cover a small subset of topics and provide an assignment to make the l
 
 | Day | Topic | Slides | Assignment/Tutorials |
 | ------ | ------ | ------ | ------ |
-| Day 1 | Basic Python | - | [Link](https://colab.research.google.com/drive/1tAv3ZLSVPRRiKxs8G8m2boV0K32lFbjr?usp=sharing) |
+| Day 1 | Basic Python | - | [Tutorial](https://colab.research.google.com/drive/1htdrod5ZVMMdrutO0a3loKsd9itqMJet?usp=sharing) [Assignment](https://colab.research.google.com/drive/1tAv3ZLSVPRRiKxs8G8m2boV0K32lFbjr?usp=sharing) |
 | Day 1 | Introductory ML/DL and Neuroscience | [Link](ML_DL_basics/ML_DL_Intro.pdf)| [Link](https://colab.research.google.com/drive/1ZSXd0svqcWXqfyC_RXfxQYfdnDzV8VyS?usp=sharing)|
 | Day 2| Spiking Neural Networks | [Link](Spiking_Neural_Networks/Spiking_NN.pdf)| [Link](https://colab.research.google.com/drive/1d08tPXgkP9yjdTZKg67RU9TSykovW_4_?usp=sharing)|
 | Day 2 | Reinforcement Learning | [Link](RL/RL_workshop.pdf)| [Link](https://colab.research.google.com/drive/1FgMuQWM8pjAAZE4TDbE51KnDMLjvZmji?usp=sharing)|
